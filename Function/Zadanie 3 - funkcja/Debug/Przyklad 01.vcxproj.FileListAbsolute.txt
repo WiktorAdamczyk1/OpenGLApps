@@ -1,0 +1,6 @@
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.3 - funkcja\Przyklad 01\Debug\Przyklad 01.pdb
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.3 - funkcja\Przyklad 01\Debug\Przyklad 01.vcxprojAssemblyReference.cache
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.3 - funkcja\Przyklad 01\Debug\Przyklad 01.exe
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.3 - funkcja\Zadanie 3 - funkcja\Debug\Przyklad 01.vcxprojAssemblyReference.cache
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.3 - funkcja\Zadanie 3 - funkcja\Debug\Przyklad 01.exe
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.3 - funkcja\Zadanie 3 - funkcja\Debug\Przyklad 01.pdb

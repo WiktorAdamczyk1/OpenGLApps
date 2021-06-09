@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\main.cpp(52,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\main.cpp(53,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\main.cpp(54,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\main.cpp(94,11): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\main.cpp(113,15): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\main.cpp(136,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\main.cpp(144,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\main.cpp(147,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\main.cpp(158,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\main.cpp(187,21): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\main.cpp(192,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\main.cpp(197,17): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\main.cpp(202,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\main.cpp(207,18): warning C4305: '-=': truncation from 'double' to 'float'
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Przyklad 02.vcxproj -> C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\Debug\Przyklad 02.exe

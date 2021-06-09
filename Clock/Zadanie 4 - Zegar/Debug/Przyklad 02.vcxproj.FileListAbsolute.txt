@@ -1,0 +1,9 @@
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\materiały - pomoc\Przykłady_Legacy\Przyklad 02\Debug\Przyklad 02.vcxprojAssemblyReference.cache
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\materiały - pomoc\Przykłady_Legacy\Przyklad 02\Debug\Przyklad 02.exe
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\materiały - pomoc\Przykłady_Legacy\Przyklad 02\Debug\Przyklad 02.pdb
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Przyklad 02\Debug\Przyklad 02.vcxprojAssemblyReference.cache
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Przyklad 02\Debug\Przyklad 02.exe
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Przyklad 02\Debug\Przyklad 02.pdb
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\Debug\Przyklad 02.vcxprojAssemblyReference.cache
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\Debug\Przyklad 02.exe
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.4 - zegar\Zadanie 4 - Zegar\Debug\Przyklad 02.pdb

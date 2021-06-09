@@ -1,0 +1,31 @@
+﻿  main.cpp
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(104,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(114,15): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(136,22): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(147,22): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(155,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(159,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(164,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(168,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(171,22): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(207,21): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(211,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(211,38): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(213,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(213,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(215,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(215,40): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(218,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(218,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(218,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(220,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(220,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(220,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(222,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(222,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(222,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(224,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(224,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\main.cpp(224,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Przyklad 01.vcxproj -> C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\Debug\Przyklad 01.exe

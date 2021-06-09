@@ -1,0 +1,9 @@
+C:\Users\dawx1\Desktop\materiały - pomoc\Przykłady_Legacy\Przyklad 01\Debug\Przyklad 01.vcxprojAssemblyReference.cache
+C:\Users\dawx1\Desktop\materiały - pomoc\Przykłady_Legacy\Przyklad 01\Debug\Przyklad 01.exe
+C:\Users\dawx1\Desktop\materiały - pomoc\Przykłady_Legacy\Przyklad 01\Debug\Przyklad 01.pdb
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Przyklad 01\Debug\Przyklad 01.vcxprojAssemblyReference.cache
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Przyklad 01\Debug\Przyklad 01.pdb
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Przyklad 01\Debug\Przyklad 01.exe
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\Debug\Przyklad 01.vcxprojAssemblyReference.cache
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\Debug\Przyklad 01.exe
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.1 - sześciany\Zadanie 1 - sześciany\Debug\Przyklad 01.pdb

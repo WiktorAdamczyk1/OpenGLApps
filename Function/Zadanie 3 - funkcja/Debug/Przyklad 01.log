@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.3 - funkcja\Zadanie 3 - funkcja\main.cpp(56,37): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.3 - funkcja\Zadanie 3 - funkcja\main.cpp(57,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.3 - funkcja\Zadanie 3 - funkcja\main.cpp(58,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.3 - funkcja\Zadanie 3 - funkcja\main.cpp(101,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.3 - funkcja\Zadanie 3 - funkcja\main.cpp(106,24): warning C4305: '-=': truncation from 'double' to 'float'
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Przyklad 01.vcxproj -> C:\Studia\Semestr5\Grafika Komputerowa II\ProjektOpenGL\zadania\Zad.3 - funkcja\Zadanie 3 - funkcja\Debug\Przyklad 01.exe
